@@ -1,0 +1,31 @@
+/* src/components/BacklogPage.module.css */
+.container {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+  }
+  
+  .dropdown {
+    flex: 1;
+    margin: 0 20px;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  }
+  
+  .dropdownButton {
+    width: 100%;
+    padding: 10px;
+    background-color: #f8f8f8;
+    border: none;
+    cursor: pointer;
+    text-align: left;
+    font-size: 16px;
+  }
+  
+  .dropdownContent {
+    display: none;
+    padding: 10px;
+    background-color: white;
+    border-top: none;
+  }
+  
