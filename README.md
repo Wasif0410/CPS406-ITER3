@@ -1,2 +1,2 @@
-# CPS406-ITER3
+# FULL STACK GYM APPLICATION
  Gym Management Software
